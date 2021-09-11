@@ -1,10 +1,27 @@
 
 ### Hi there 👋
 
-#### I do this all for my one & only follower, [Matthew Wong](https://thewongcode.net/). [^*]
+#### Haven't groomed this codebase yet, but check me out in full: [zac.computer](https://zac.computer/). [^*]
 
 
-[^*]: _Acknowledgement_: Matt is friend, not foe.
+- 🔭 I’m currently working on ...
+        an inventory system for my life
+        several exploratory projects of spotify & genius APIs
+          coupled with [everynoise.com](https://everynoise.com/)
+        a *bucks drink modeling system to parse drink ticket images
+        into an orderable qr code.
+
+- 🌱 I’m currently learning ...
+        how to convert flask projects to fastapi
+
+- 🤔 I’m looking for help with ...
+        finding a job.
+
+- 💬 Ask me about ...
+        anything
+
+- 📫 You can reach me at zac@zac.computer
+
 
 
 <!--
@@ -12,12 +29,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
